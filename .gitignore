@@ -10,6 +10,7 @@ buildNumber.properties
 
 
 ### NetBeans ###
+test/
 e2e-tests/
 nbproject/
 */nbproject/private/
